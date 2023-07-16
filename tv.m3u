@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
 #EXTINF:-1, Первый HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
