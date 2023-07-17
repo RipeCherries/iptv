@@ -50,8 +50,26 @@ https://okkotv-live.cdnvideo.ru/channel/TNT_OTT_HD.m3u8
 https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
 
 
-#EXTINF:-1 group-title="Спортивные", Матч! СТРАНА
+
+#EXTINF:-1 id="17" group-title="Спортивные", Матч! СТРАНА
 https://bl.uma.media/live/291661/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8
 
-#EXTINF:-1 group-title="Спортивные", Матч! АРЕНА
+#EXTINF:-1 id="18" group-title="Спортивные", Матч! АРЕНА
 http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
+
+#EXTINF:-1 id="19" group-title="Спортивные", Матч! ИГРА
+http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
+
+#EXTINF:-1 id="10" group-title="Спортивные", Матч! БОЕЦ
+http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
+
+#EXTINF:-1 id="21" group-title="Спортивные", Матч! ПРЕМЬЕР HD
+https://bl.uma.media/live/126866/HLS/6866944_4,4614144_3,2883584_2,1153024_1/1613528396/a906596714d5111da51743ee194afc5f/playlist.m3u8
+
+
+
+#EXTINF:-1 id="22" group-title="Развлекательные", 2x2
+https://bl.uma.media/live/317805/HLS/317805_3/1/1/playlist.m3u8
+
+#EXTINF:-1 id="23" group-title="Развлекательные", Че!
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
