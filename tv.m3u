@@ -1,22 +1,29 @@
 #EXTM3U url-tvg="http://www.teleguide.info/download/new3/xmltv.xml.gz, https://iptvx.one/epg/epg.xml.gz"
 
-#EXTINF:-1, Первый HD
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
-#EXTINF:-1, Россия 1 HD
+#EXTINF:-1 id="1" group-title="Общероссийские", Первый HD
+http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/1/stream.m3u8
+
+#EXTINF:-1 id="2" group-title="Общероссийские", Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
 
-#EXTINF:-1, НТВ HD
-http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 id="3" group-title="Общероссийские", НТВ HD
+http://dmi3y-tv.ru/hls/T2/CH_NTVHD.m3u8
 
-#EXTINF:-1, Звезда
-http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdhigh.m3u8
+#EXTINF:-1 id="4" group-title="Общероссийские", Матч! HD
+http://bl.uma.media/live/312119/HLS/4614144_3/2/1/playlist.m3u8
 
-#EXTINF:-1, Победа
-http://81.177.136.209:8005/playlist.m3u8
+#EXTINF:-1 id="5" group-title="Общероссийские", РЕН ТВ HD
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT/1080p.m3u8
 
-#EXTINF:-1, Дом Кино
-http://217.107.219.67:8006/playlist.m3u8
+#EXTINF:-1 id="6" group-title="Общероссийские", СТС
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
 
-#EXTINF:-1, Россия 24
-http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 id="7" group-title="Общероссийские", Домашний HD
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT/1080p.m3u8
+
+#EXTINF:-1 id="8" group-title="Общероссийские", ТВ3
+https://okkotv-live.cdnvideo.ru/channel/TV3_OTT_HD/1080p.m3u8
+
+#EXTINF:-1 id="9" group-title="Общероссийские", Пятница! HD
+https://okkotv-live.cdnvideo.ru/channel/Pyatnizza_OTT_HD/1080p.m3u8
