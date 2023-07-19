@@ -87,13 +87,42 @@ https://okkotv-live.cdnvideo.ru/dash/360hd/playlist.mpd
 
 #EXTINF:-1 id="27" group-title="Кино и сериалы", Viju TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
+
 #EXTINF:-1 id="28" group-title="Кино и сериалы", Viju TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
+
 #EXTINF:-1 id="29" group-title="Кино и сериалы", Viju+ Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
+
 #EXTINF:-1 id="30" group-title="Кино и сериалы", Viju+ Megahit HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
+
 #EXTINF:-1 id="31" group-title="Кино и сериалы", Viju+ Premiere HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
+
 #EXTINF:-1 id="32" group-title="Кино и сериалы", Viju+ Serial HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
+
+#EXTINF:-1 id="33" group-title="Кино и сериалы", НТВ Хит
+http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
+
+#EXTINF:-1 id="34" group-title="Кино и сериалы", НТВ Сериал
+http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
+
+#EXTINF:-1 id="35" group-title="Кино и сериалы", НТВ Стиль
+http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
+
+#EXTINF:-1 id="36" group-title="Кино и сериалы", НТВ Право
+http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
+
+#EXTINF:-1 id="37" group-title="Кино и сериалы",Кинопоказ
+http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
+
+#EXTINF:-1 id="38" group-title="Кино и сериалы",Киносемья
+http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
+
+#EXTINF:-1 id="39" group-title="Кино и сериалы",Киносвидание
+http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
+
+#EXTINF:-1 id="40" group-title="Кино и сериалы",Кинокомедия
+http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
