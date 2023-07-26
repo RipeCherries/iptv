@@ -20,7 +20,7 @@
   
   | ID | Логотип | Название | Статус |
   |:--:|:-------:|:--------:|:------:|
-  | 1  | [<img src="http://epg.it999.ru/img2/983.png" height="50" />](http://epg.it999.ru/img2/983.png)  | Первый HD | ✅ Работает |
+  | 1  | [<img src="http://epg.it999.ru/img2/983.png" height="50" />](http://epg.it999.ru/img2/983.png) | Первый HD | ✅ Работает |
   | 2  | [<img src="http://epg.it999.ru/img2/984.png" height="50" />](http://epg.it999.ru/img2/984.png) | Россия 1 HD | ✅ Работает |
   | 3  | [<img src="http://epg.it999.ru/img2/2001.png" height="50" />](http://epg.it999.ru/img2/2001.png) | НТВ HD | ✅ Работает |
   | 4  | [<img src="http://epg.it999.ru/img2/1683.png" height="50" />](http://epg.it999.ru/img2/1683.png) | Россия 24 | ✅ Работает |
@@ -36,6 +36,18 @@
   | 14 | [<img src="http://epg.it999.ru/img2/2078.png" height="50" />](http://epg.it999.ru/img2/2078.png) | Мир 24 HD | ✅ Работает |
   | 15 | [<img src="http://epg.it999.ru/img2/1767.png" height="50" />](http://epg.it999.ru/img2/1767.png) | ТНТ HD | ✅ Работает |
   | 16 | [<img src="http://epg.it999.ru/img2/897.png" height="50" />](http://epg.it999.ru/img2/897.png) | Муз-ТВ | ✅ Работает |
+</details>
+
+<details>
+  <summary><strong>⚽️ Спортивные:</strong></summary>
+  
+  | ID | Логотип | Название | Статус |
+  |:--:|:-------:|:--------:|:------:|
+  | 17 | [<img src="http://epg.it999.ru/img2/2042.png" height="50" />](http://epg.it999.ru/img2/2042.png) | Матч! СТРАНА | ✅ Работает |
+  | 18 | [<img src="http://epg.it999.ru/img2/2003.png" height="50" />](http://epg.it999.ru/img2/2003.png) | Матч! АРЕНА | ✅ Работает |
+  | 19 | [<img src="http://epg.it999.ru/img2/2050.png" height="50" />](http://epg.it999.ru/img2/2050.png) | Матч! ИГРА | ✅ Работает |
+  | 20 | [<img src="http://epg.it999.ru/img2/2054.png" height="50" />](http://epg.it999.ru/img2/2054.png) | Матч! БОЕЦ | ✅ Работает |
+  | 21 | [<img src="http://epg.it999.ru/img2/2250.png" height="50" />](http://epg.it999.ru/img2/2250.png) | Матч! ПРЕМЬЕР HD | ✅ Работает |
 </details>
 
 ## ⛏ Как использовать плейлист?
