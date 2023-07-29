@@ -61,6 +61,29 @@
   | 25 | [<img src="http://epg.it999.ru/img2/898.png" height="50" />](http://epg.it999.ru/img2/898.png) | Телеканал Ю | ✅ Работает |
 </details>
 
+<details>
+  <summary><strong>🎬 Кино и сериалы:</strong></summary>
+  
+  | ID | Логотип | Название | Статус |
+  |:--:|:-------:|:--------:|:------:|
+  | 26 | [<img src="http://epg.it999.ru/img2/127.png" height="50" />](http://epg.it999.ru/img2/127.png) | Viju TV1000 HD | ✅ Работает |
+  | 27 | [<img src="http://epg.it999.ru/img2/125.png" height="50" />](http://epg.it999.ru/img2/125.png) | Viju TV1000 Action HD | ✅ Работает |
+  | 28 | [<img src="http://epg.it999.ru/img2/1011.png" height="50" />](http://epg.it999.ru/img2/1011.png) | Viju+ Comedy HD | ✅ Работает |
+  | 29 | [<img src="http://epg.it999.ru/img2/1012.png" height="50" />](http://epg.it999.ru/img2/1012.png) | Viju+ Megahit HD | ✅ Работает |
+  | 30 | [<img src="http://epg.it999.ru/img2/1013.png" height="50" />](http://epg.it999.ru/img2/1013.png) | Viju+ Premiere HD | ✅ Работает |
+  | 31 | [<img src="http://epg.it999.ru/img2/2838.png" height="50" />](http://epg.it999.ru/img2/2838.png) | Viju+ Serial HD | ✅ Работает |
+  | 32 | [<img src="http://epg.it999.ru/img2/2041.png" height="50" />](http://epg.it999.ru/img2/2041.png) | НТВ Хит | ✅ Работает |
+  | 33 | [<img src="http://epg.it999.ru/img2/1754.png" height="50" />](http://epg.it999.ru/img2/1754.png) | НТВ Сериал | ✅ Работает |
+  | 34 | [<img src="http://epg.it999.ru/img2/1755.png" height="50" />](http://epg.it999.ru/img2/1755.png) | НТВ Стиль | ✅ Работает |
+  | 35 | [<img src="http://epg.it999.ru/img2/1753.png" height="50" />](http://epg.it999.ru/img2/1753.png) | НТВ Право | ✅ Работает |
+  | 36 | [<img src="http://epg.it999.ru/img2/2834.png" height="50" />](http://epg.it999.ru/img2/2834.png) | Кинопоказ | ✅ Работает |
+  | 37 | [<img src="http://epg.it999.ru/img2/987.png" height="50" />](http://epg.it999.ru/img2/987.png) | Киносемья | ✅ Работает |
+  | 38 | [<img src="http://epg.it999.ru/img2/462.png" height="50" />](http://epg.it999.ru/img2/462.png) | Киносвидание | ✅ Работает |
+  | 39 | [<img src="http://epg.it999.ru/img2/821.png" height="50" />](http://epg.it999.ru/img2/821.png) | Кинокомедия | ✅ Работает |
+  | 40 | [<img src="http://epg.it999.ru/img2/2447.png" height="50" />](http://epg.it999.ru/img2/2447.png) | Победа | ✅ Работает |
+  
+</details>
+
 ## ⛏ Как использовать плейлист?
 ### 💾 С помощью файла:
 1. **Скачайте плейлист:** Воспользуйтесь этой [ссылкой](https://ripecherries.github.io/iptv/tv.m3u).
