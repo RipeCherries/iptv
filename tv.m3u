@@ -60,7 +60,7 @@ http://bl.uma.media/live/126868/HLS/6866944_4/2/1/playlist.m3u8
 #EXTINF:-1 id="19" group-title="Спортивные", Матч! ИГРА
 http://bl.uma.media/live/154036/HLS/154036_4/2/1/playlist.m3u8
 
-#EXTINF:-1 id="10" group-title="Спортивные", Матч! БОЕЦ
+#EXTINF:-1 id="20" group-title="Спортивные", Матч! БОЕЦ
 http://bl.uma.media/live/132838/HLS/132838_4/2/1/playlist.m3u8
 
 #EXTINF:-1 id="21" group-title="Спортивные", Матч! ПРЕМЬЕР HD
@@ -82,50 +82,83 @@ https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
 
 
 
-#EXTINF:-1 id="27" group-title="Кино и сериалы", Viju TV1000 HD
+#EXTINF:-1 id="26" group-title="Кино и сериалы", Viju TV1000 HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD/1080p.m3u8
 
-#EXTINF:-1 id="28" group-title="Кино и сериалы", Viju TV1000 Action HD
+#EXTINF:-1 id="27" group-title="Кино и сериалы", Viju TV1000 Action HD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD/1080p.m3u8
 
-#EXTINF:-1 id="29" group-title="Кино и сериалы", Viju+ Comedy HD
+#EXTINF:-1 id="28" group-title="Кино и сериалы", Viju+ Comedy HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD/1080p.m3u8
 
-#EXTINF:-1 id="30" group-title="Кино и сериалы", Viju+ Megahit HD
+#EXTINF:-1 id="29" group-title="Кино и сериалы", Viju+ Megahit HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD/1080p.m3u8
 
-#EXTINF:-1 id="31" group-title="Кино и сериалы", Viju+ Premiere HD
+#EXTINF:-1 id="30" group-title="Кино и сериалы", Viju+ Premiere HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD/1080p.m3u8
 
-#EXTINF:-1 id="32" group-title="Кино и сериалы", Viju+ Serial HD
+#EXTINF:-1 id="31" group-title="Кино и сериалы", Viju+ Serial HD
 https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD/1080p.m3u8
 
-#EXTINF:-1 id="33" group-title="Кино и сериалы", НТВ Хит
+#EXTINF:-1 id="32" group-title="Кино и сериалы", НТВ Хит
 http://dmi3y-tv.ru/hls/CH_NTVHIT.m3u8
 
-#EXTINF:-1 id="34" group-title="Кино и сериалы", НТВ Сериал
+#EXTINF:-1 id="33" group-title="Кино и сериалы", НТВ Сериал
 http://dmi3y-tv.ru/hls/CH_NTVSERIAL.m3u8
 
-#EXTINF:-1 id="35" group-title="Кино и сериалы", НТВ Стиль
+#EXTINF:-1 id="34" group-title="Кино и сериалы", НТВ Стиль
 http://dmi3y-tv.ru/hls/CH_NTVSTIL.m3u8
 
-#EXTINF:-1 id="36" group-title="Кино и сериалы", НТВ Право
+#EXTINF:-1 id="35" group-title="Кино и сериалы", НТВ Право
 http://dmi3y-tv.ru/hls/CH_NTVPRAVO.m3u8
 
-#EXTINF:-1 id="37" group-title="Кино и сериалы", Кинопоказ
+#EXTINF:-1 id="36" group-title="Кино и сериалы", Кинопоказ
 http://streamer1.ruslanatv.ru/russia/kinopokaz_sd_2023/playlist.m3u8
 
-#EXTINF:-1 id="38" group-title="Кино и сериалы", Киносемья
+#EXTINF:-1 id="37" group-title="Кино и сериалы", Киносемья
 http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
 
-#EXTINF:-1 id="39" group-title="Кино и сериалы", Киносвидание
+#EXTINF:-1 id="38" group-title="Кино и сериалы", Киносвидание
 http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
 
-#EXTINF:-1 id="40" group-title="Кино и сериалы", Кинокомедия
+#EXTINF:-1 id="39" group-title="Кино и сериалы", Кинокомедия
 http://streamer1.ruslanatv.ru/russia/kinokomediya_sd_2023/playlist.m3u8
 
-#EXTINF:-1 id="41" group-title="Кино и сериалы", Победа
-http://81.177.136.209:8005/playlist.m3u8
+#EXTINF:-1 id="40" group-title="Кино и сериалы", Победа
+http://dphbo59v.ottclub.xyz/iptv/M3U54P4FVWCK3F/2003/index.m3u8
 
-#EXTINF:-1 id="42" group-title="Кино и сериалы", Дом кино
-https://cdn-cache01.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u8
+#EXTINF:-1 id="41" group-title="Кино и сериалы", Дом кино
+http://ott.watch/stream/BJSXLFD133/236.m3u8
+
+#EXTINF:-1 id="42" group-title="Кино и сериалы", Дом кино Премиум HD
+http://ott.watch/stream/BJSXLFD133/108.m3u8
+
+#EXTINF:-1 id="43" group-title="Кино и сериалы", Наше мужское HD
+http://ott.watch/stream/BJSXLFD133/362.m3u8
+
+#EXTINF:-1 id="44" group-title="Кино и сериалы", CineMan HD
+http://ott.watch/stream/BJSXLFD133/349.m3u8
+
+#EXTINF:-1 id="45" group-title="Кино и сериалы", CineMan Top HD
+http://ott.watch/stream/BJSXLFD133/350.m3u8
+
+#EXTINF:-1 id="46" group-title="Кино и сериалы", CineMan Action HD
+http://ott.watch/stream/BJSXLFD133/351.m3u8
+
+#EXTINF:-1 id="47" group-title="Кино и сериалы", CineMan Thriller HD
+http://ott.watch/stream/BJSXLFD133/352.m3u8
+
+#EXTINF:-1 id="48" group-title="Кино и сериалы", CineMan Marvel HD
+http://ott.watch/stream/BJSXLFD133/354.m3u8
+
+#EXTINF:-1 id="49" group-title="Кино и сериалы", CineMan Ужасы HD
+http://ott.watch/stream/BJSXLFD133/355.m3u8
+
+#EXTINF:-1 id="50" group-title="Кино и сериалы", CineMan Comedy HD
+http://ott.watch/stream/BJSXLFD133/356.m3u8
+
+#EXTINF:-1 id="51" group-title="Кино и сериалы", CineMan РуКино HD
+http://ott.watch/stream/BJSXLFD133/358.m3u8
+
+#EXTINF:-1 id="52" group-title="Кино и сериалы", CineMan Сваты HD
+http://ott.watch/stream/BJSXLFD133/359.m3u8
