@@ -133,7 +133,6 @@ https://cdn-cache01.voka.tv/live/5105-req_offset_28000000-req_window_0-3k_v5.m3u
 #EXTINF:-1 id="42" group-title="Кино и сериалы", Еврокино
 http://cdn-lb.iptv2022.com/p/a6RPW0WyqE_LSGXwSej6FQ,1688590813/streaming/eurokino/324/1/index.m3u8
 
-
 #EXTINF:-1 id="43" group-title="Кино и сериалы", НСТ
 https://tbs01-edge11.itdc.ge/hctv/tracks-v1a1/index.m3u8
 
@@ -146,188 +145,20 @@ http://109.200.135.130:8080/kinohit/index.m3u8
 #EXTINF:-1 id="45" group-title="Кино и сериалы", Киномикс HD
 http://109.200.135.130:8080/kinomix/index.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:0 tvg-id="kinopremiera-hd" group-title="📺 Фильмовые", Кинопремьера HD
-http://streamer1.ruslanatv.ru/russia/kinopremyera_hd_2023/playlist.m3u8
-
-
-#EXTINF:0 tvg-id="kinosemiya" group-title="📺 Фильмовые",Киносемья
-http://streamer1.ruslanatv.ru/russia/kinosemya_sd_new_2023/playlist.m3u8
-
-#EXTINF:0 tvg-id="kinosemiya" group-title="📺 Фильмовые",Киносемья HD
-http://109.200.135.130:8080/kinosemya/index.m3u8
-
-
-#EXTINF:0 tvg-id="kinosvidanie" group-title="📺 Фильмовые",Киносвидание
-http://streamer1.ruslanatv.ru/russia/kinosvidanie_sd_new_2023/playlist.m3u8
-
-#EXTINF:0 tvg-id="kinosvidanie" group-title="📺 Фильмовые",Киносвидание HD
-http://109.200.135.130:8080/kinosvidanie/index.m3u8
-
-#EXTINF:0 tvg-id="indiyskoe-kino" group-title="📺 Фильмовые",Индийское кино
-https://tbs01-edge11.itdc.ge/indiyskoekino/tracks-v1a1/index.m3u8
-
-#EXTINF:0 tvg-id="super-baltic" group-title="📺 Фильмовые", Super Baltic HD
-http://91.233.215.250:7272/OkcbfGtsHx1g4Vs
-
-#EXTINF:0 tvg-id="super-plus" group-title="📺 Фильмовые", Super Plus HD
-http://91.233.215.250:7272/JkfGhb36Cvs7Fgz
-
-
-#EXTINF:0 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/10286/logo_256_1658736631.png" group-title="📺 Фильмовые",КиноМеню HD
-http://cdn-lb.iptv2022.com/p/uSOjPXzOPozRJK5OvyoooA,1674072031/streaming/kinomenu/324/1/index.m3u8
-
-#EXTINF:0 tvg-id="klassika-kino" group-title="📺 Фильмовые",Классика кино
-http://cdn-lb.iptv2022.com/p/hmnUeLnjT55p4GouhicIxw,1674072033/streaming/k_kino/324/1/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15576/logo_256_1668760402.png" group-title="📺 Фильмовые",Novella TV
-http://cdn-lb.iptv2022.com/p/SBizXnGVBsQie4O8RJfSlw,1681400699/streaming/telenovella/324/1/index.m3u8
-
-#EXTINF:0 tvg-id="kinoseria" group-title="📺 Фильмовые",Киносерия
-http://cdn-lb.iptv2022.com/p/CH9D4KjeBG7SKX12iMK-pg,1687539730/streaming/kinoseria/324/1/index.m3u8
-#EXTINF:0 tvg-id="kinoseria" group-title="📺 Фильмовые",Киносерия HD
+#EXTINF:-1 id="46" group-title="Кино и сериалы", Киносерия HD
 http://109.200.135.130:8080/mnogo-tv/index.m3u8
 
-
-#EXTINF:0 tvg-id="kinokomedia" group-title="📺 Фильмовые",Кинокомедия
-http://cdn-lb.iptv2022.com/p/Esh6CTWygruc-XBxfb-JPA,1688590814/streaming/kinocomedia/324/1/index.m3u8
-#EXTINF:0 tvg-id="kinokomedia" group-title="📺 Фильмовые",Кинокомедия HD
-http://109.200.135.130:8080/komediya/index.m3u8
-
-
-#EXTINF:0 tvg-id="rodnoe-kino" group-title="📺 Фильмовые",Родное Кино
-http://31.148.48.15:80/Rodnoe_kino/index.m3u8?token=test
-
-
-#EXTINF:0 tvg-id="kinouzhas" group-title="📺 Фильмовые",Киноужас
-http://109.197.192.121:8080/kinouzhas/index.m3u8
-
-#EXTINF:0 tvg-id="kinouzhas" group-title="📺 Фильмовые",Киноужас HD
-
-
-#EXTINF:0 tvg-id="scream" group-title="📺 Фильмовые",Scream
-http://tv.tvip-media.net/scream/tracks-v3a0/time-0.m3u8
-#EXTINF:0 tvg-id="scream" group-title="📺 Фильмовые",Scream HD
-http://tv.tvip-media.net/scream/tracks-v1a0/time-0.m3u8
-#EXTINF:0 tvg-id="" tvg-logo="https://assets-iptv2022.cdnvideo.ru/static/channel/15786/logo_256_1670420636.jpg" group-title="📺 Фильмовые",Horror TV
-http://cdn-lb.iptv2022.com/p/nxfJjGYhMgG_JD4JiUY7jA,1681389680/streaming/horror_tv/324/1/tracks-v1a1/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://tv-app.ru/images/logo-channel/tv-strakh-hd.png" group-title="📺 Фильмовые",Страх HD
-https://hls.goodgame.ru/hls/202127.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://tv-app.ru/images/logo-channel/tv-koshmar-hd.png" group-title="📺 Фильмовые",Кошмар HD
-https://playlist.wasd.tv/live/1697889/tracks-v1a1/index.m3u8
-
-#EXTINF:0 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://i.ibb.co/L01G3Lj/EBy-BCZSQ17plk-VBHg-zr0-Ca-E0vl-ZVREajr-DUKVh-Hb-Fw7-T5-SRxovk-R5-Zq-Jf-G5d-Lp-Fff3-WDJQJGian-Zh1lys.jpg", MediaService Lorenz TV
-http://84.38.180.145:8080/Uhierjfk/index.m3u8
-
-#EXTINF:0 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38896-61045dae6ffff.png",IPTVPLAY УЖАСТИК
-https://iptvplay.catcast.tv/content/38896/index.m3u8
-
-#EXTINF:0 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://img.catcast.tv/uploads/30072021/logos/38801-61045ebfe0919.png",IPTVPLAY ФАНТАСТИКА
-https://iptvplay.catcast.tv/content/38801/index.m3u8
-
-#EXTINF:0 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://img.catcast.tv/uploads/21102022/logos/39161-6352c0c04b9bd.png",IPTVPLAY PROMO
-https://iptvplay.catcast.tv/content/39161/index.m3u8
-
-#EXTINF:0 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://i.postimg.cc/tT1h3zvB/Voshod-TV-HD.png",Восход ТВ HD
-https://v2.catcast.tv/content/42938/index.m3u8
-
-#EXTINF:0 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://ritsatv.ru/files/poster/medium/600612.jpg", STR TV
-https://strtv.at.ua/hls/index.m3u8
-
-#EXTINF:0 tvg-id="" group-title="📺 Фильмовые" tvg-logo="https://i.ibb.co/xgMr8yy/IMG-20230322-212116.png", PZN TV HD
-http://195.9.195.2/hls/180960.m3u8
-
-#EXTINF:0 tvg-id="" group-title="📺 Фильмовые" tvg-logo="http://mytorrent.ucoz.ua/Onlain_TV/film_tv/Akuji.png", Akudji
-https://hls.goodgame.ru/hls/5346.m3u8
-
-#EXTINF:0 tvg-id="plan-b" group-title="📺 Фильмовые" ,Plan_B HD
-
-
-#EXTINF:0 tvg-id="nashe-novoe-kino" group-title="📺 Фильмовые",Наше новое кино
+#EXTINF:-1 id="47" group-title="Кино и сериалы", Наше новое кино
 http://europe3.livetv.az/russia/nashe_novoe_kino_sd_new_2023/playlist.m3u8
 
-
-
-#EXTINF:0 tvg-id="russkaya-komedia" group-title="📺 Фильмовые",Комедия
-http://109.200.135.130:8080/comedy/index.m3u8
-
-#EXTINF:0 tvg-id="sony-scifi" group-title="📺 Фильмовые",.sci-fi
-https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi/480p.m3u8
-
-#EXTINF:0 tvg-id="premialnoe-hd" group-title="📺 Фильмовые",Премиальное HD
-http://213.172.73.133:8081/nimble_live/9008_Премиальное_HD/playlist.m3u8
-
-#EXTINF:0 tvg-id="ostrosiuzhetnoe-hd" group-title="📺 Фильмовые",Остросюжетное HD
-http://213.172.73.133:8081/nimble_live/9009_Остросюжетное_HD/playlist.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://img.catcast.tv/uploads/04062022/banners/39005-629ba53ce1357.png" group-title="📺 Фильмовые", Киноклуб
-https://v2.catcast.tv/content/39005/index.m3u8
-
-#EXTINF:0 tvg-id="pro-lyubov" group-title="📺 Фильмовые",Про Любовь HD
-http://cdn-lb.iptv2022.com/p/lB-2b-yEOKysiXhf5yfoRA,1688590812/streaming/prolubov/324/1/index.m3u8
-
-
-#EXTINF:0 tvg-id="shokiruyushchee" group-title="📺 Фильмовые",Шокирующее HD
-
-#EXTINF:0 tvg-id="strashnoe-hd" group-title="📺 Фильмовые",Страшное HD
-
-#EXTINF:0 tvg-id="romantichnoe-hd" group-title="📺 Фильмовые",Романтичное HD
-http://cloud17.05cdn.wf:8080/ch340/video.m3u8?token=095d11dad4b7d9b3fab9969a70d632d6dce25959d
-
-#EXTINF:0 tvg-id="amedia1" group-title="📺 Фильмовые",Amedia 1
-http://okkotv-live.cdnvideo.ru/channel/A1_HD/480p.m3u8
-
-#EXTINF:0 tvg-id="amedia2" group-title="📺 Фильмовые",Amedia 2
-http://okkotv-live.cdnvideo.ru/channel/A2_HD/480p.m3u8
-
-#EXTINF:0 tvg-id="amedia1" group-title="📺 Фильмовые",Amedia 1 HD
+#EXTINF:-1 id="48" group-title="Кино и сериалы", Amedia 1 HD
 http://okkotv-live.cdnvideo.ru/channel/A1_HD/1080p.m3u8
 
-#EXTINF:0 tvg-id="amedia2" group-title="📺 Фильмовые",Amedia 2 HD
+#EXTINF:-1 id="49" group-title="Кино и сериалы", Amedia 2 HD
 http://okkotv-live.cdnvideo.ru/channel/A2_HD/1080p.m3u8
 
-#EXTINF:0 tvg-id="amedia-premium" group-title="📺 Фильмовые",Amedia Premium HD
-http://31.148.48.15:80/Amedia_Premium_HD/index.m3u8?token=test
-
-#EXTINF:0 tvg-id="hollywood" group-title="📺 Фильмовые",Hollywood
-https://sc.id-tv.kz:443/Hollywood.m3u8
-
-#EXTINF:0 tvg-id="hollywood" group-title="📺 Фильмовые",Hollywood HD
-https://tbs01-edge11.itdc.ge/hollywoodhd/tracks-v1a1/index.m3u8
-
-#EXTINF:0 tvg-id="mir-seriala" group-title="📺 Фильмовые",Мир сериала
+#EXTINF:-1 id="50" group-title="Кино и сериалы", Мир сериала
 https://tbs01-edge11.itdc.ge/mirseriala/tracks-v1a1/index.m3u8
 
-#EXTINF:0 tvg-id="tvxxi" group-title="📺 Фильмовые",TV XXI
-http://mfe01.cliptv.az/dash/TV_XXI_SDghtydf56.ism/playlist.mpd
-
-#EXTINF:0 tvg-id="tvoyo-tv-hd" group-title="📺 Фильмовые", Твое ТВ HD
-http://tvoetv.space:8080/tvoetv/index.m3u8
-
-#EXTINF:0 tvg-id="" tvg-logo="https://i.postimg.cc/85hJM1pk/Tvoe-TV-Umor.png" group-title="📺 Фильмовые", Твое ТВ Юмор HD
-http://tvoetv.space:8080/tvoetv_humor/index.m3u8 
-
-#EXTINF:0 tvg-id="illuzion-plus" group-title="📺 Фильмовые",Иллюзион +
-http://cdn-lb.iptv2022.com/p/CNXOwDd0peaQccq7YiRFIg,1688590813/streaming/illuzionplus/324/1/index.m3u8
-
-#EXTINF:0 tvg-id="russky-bestseller" group-title="📺 Фильмовые",Русский Бестселлер
-http://31.148.48.15:80/Russkiy_Bestseller/index.m3u8?token=test
-
-#EXTINF:0 tvg-id="muzhskoe-kino" group-title="📺 Фильмовые",Мужское Кино
-http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
-
-#EXTINF:0 tvg-id="muzhskoe-kino" group-title="📺 Фильмовые",Мужское Кино HD
+#EXTINF:-1 id="51" group-title="Кино и сериалы", Мужское Кино HD
 http://109.200.135.130:8080/muzhskoe-kino_hd/index.m3u8
