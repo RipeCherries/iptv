@@ -2,7 +2,8 @@
 
 
 #EXTINF:-1 id="1" group-title="Общероссийские", Первый HD
-http://streamer.enchart.one/42/06936289cce93c2ec61855d924639487400f1e82/1/stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD/variant.m3u8
 
 #EXTINF:-1 id="2" group-title="Общероссийские", Россия 1 HD
 http://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
